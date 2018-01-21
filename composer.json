@@ -1,0 +1,21 @@
+{
+    "name": "interitty/assets-manager",
+    "description": "Manager with Latte macro that helps to properly load CSS/JS assets.",
+    "keywords": ["interitty", "nette", "latte", "css", "sass", "js", "gulp"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavel Železný",
+            "email": "pavel.zelezny@interitty.org"
+        }
+    ],
+    "require": {
+        "php": ">= 7.2"
+    },
+    "config": {
+        "platform": {
+            "php": "7.2"
+        }
+    }
+}
